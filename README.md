@@ -7,7 +7,7 @@
     - Review of Information Theory
     - Review of Advanced Calculus
     - Review of Advanced Linear Algebra
-1. CH01. Artificial Neurons and Neural Networks
+1. Artificial Neurons and Neural Networks
     1. Artificial Neurons
     2. Activation functions
     3. 
