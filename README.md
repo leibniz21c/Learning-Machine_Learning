@@ -16,8 +16,9 @@
     1. Rosenblatt's Perceptron Model
     2. Perceptron Convergence Theorem
 3. Regression
-    1. Linear Regression
-    2. Bayesian Regression
-    3. Logistic and Softmax 
-    4. k-Nearest Neighbors(k-NN) Regression
+    1. Regressive and approximated models
+    2. Linear Regression
+    3. Bayesian Regression
+    4. Logistic and Softmax 
+    5. k-Nearest Neighbors(k-NN) Regression
     
