@@ -17,7 +17,7 @@
 3. Regression
     1. Regressive and approximated models
     2. Linear Regression
-    3. Bayesian Regression <h4>-Block-</h4>
+    3. Bayesian Regression
     4. Logistic and Softmax 
     5. k-Nearest Neighbors(k-NN) Regression
     
