@@ -50,8 +50,40 @@
         1. 𝑘-NN regression
         2.  𝑘-NN classfication
 4. Statistical learning
+    1. Wiener filter(Optimal linear MMSE filter)
+        1. Overview
+        2. Optimal linaer filtering problem
+        3. Wiener filter(Limiting form of the LS solution)
+    2. Steepest Gradient Descent Method and Least Mean Square Algorithm
+        1. Gradient descent algorithm
+        2. Two approaches for gradient descent
+    3. Minimum Mean Square Error(MMSE) Estimator
+    4. Review
 5. Classification
+    1. Definition of classification problem
+    2. Linear Models for Classfication
+        1. Linear discriminant for two classes
+        2. Linear discriminant for multiple classes
+        3. Linear models for classification
+            1. Linear model for classification : Least squares for classification
+            2. Linear model for classification : Fisher's linear discriminant
+            3. Linear model for classification : Perceptron
+    3. Probabilistic Approaches for Classification
+        1. Statistics vs Bayesian Classification
+        2. Probabilities in classification
+        3. A simple binary classification
+        4. Receiver Operating Characteristics (ROC)
+        5. Bayesian classification : Minimum Bayes Risk Classifier for two classes
+        6. Minimum Error Probability Classifier for two classes
+        7. Bayesian classification : Minimum Bayes Risk Classifier for multiple classes
+        8. Minimum Error Probability Classifier for multiple classes
+        9. Naive Bayes classifier
+        10. Assumptions of Naive Bayes classifier
 6. Multilayer perceptron
+
 7. Support Vector Machine
+
 8. Restricted Bolzmamn Machines
+
 9. Unsupervised learning
+
